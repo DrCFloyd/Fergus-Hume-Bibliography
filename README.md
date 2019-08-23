@@ -8,7 +8,7 @@ In the [python-scripts folder](/python-scripts), you'll find scripts to automati
 
 In the [text-files folder](/text-files), you'll find all of the text files downloaded using that python script. (These have not been cleaned up at all at this point).
 
-You'll also find [a running bibliography in .csv format](/humebib.csv) which lists what I *believe* to be the first editions of Hume's book-form works (based on several initial searches of WorldCat, the Internet Archive, and Hathitrusts). Eventually, I hope to build this out for U.S. / North American editions, UK editions, and World editions (largely, for earlier works, India). I'm also hoping to pinpoint songs, periodical publications, plays, and extant papers (correspondence, etc.). 
+You'll also find [a running bibliography in .csv format](/HumeBib.csv) which lists what I *believe* to be the first editions of Hume's book-form works (based on several initial searches of WorldCat, the Internet Archive, and Hathitrusts). Eventually, I hope to build this out for U.S. / North American editions, UK editions, and World editions (largely, for earlier works, India). I'm also hoping to pinpoint songs, periodical publications, plays, and extant papers (correspondence, etc.). 
 
 If you are interested in contributing information or collaborating, please feel free to <a href="mailto:courtney.floyd@virginia.edu">drop me a line</a> or contact me on Twitter <a href="https://twitter.com/home?prefetchTimestamp=1566576602729">@cannfloyd</a>. 
 
