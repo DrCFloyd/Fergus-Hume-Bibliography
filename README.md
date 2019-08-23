@@ -1,4 +1,4 @@
-# Fergus-Hume-Bibliography and Corpus
+# Fergus Hume Bibliography and Corpus
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fergus_Hume.jpg/440px-Fergus_Hume.jpg" alt="Photo of Fergus Hume, ca. 1882" width="270" height="400" align="top">
 Fergusson "Fergus" Wright Hume (8 July 1859 – 12 July 1932) was a New-Zealand born novelist, playwright, and song writer who authored more than 140 novels during his lifetime. His most famous work was <em>The Mystery of a Hansom Cab</em> (1886), a novel which did a lot to popularize the mystery genre. This repository is an attempt to gather bibliographic information about Hume's various works in one place and begin compiling a corpus of his public domain works. I hope that it will be collaborative. 
