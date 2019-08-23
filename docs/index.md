@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Fergus Hume Bibliography and Corpus
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fergus_Hume.jpg/440px-Fergus_Hume.jpg" alt="Photo of Fergus Hume, ca. 1882" width="270" height="400" align="top">
