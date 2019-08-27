@@ -8,7 +8,7 @@ title: Bibliography
 
 <div class="searchable-header"><input type="text" class="search" placeholder="Search table..."></div>
 <div>
-<table class="searchable sortable" style=width:"80%">
+<table class="searchable sortable" style=width:"80%" id="myTable">
    <tr>
      <th onclick="sortTable(0)">Title</th>
      <th onclick="sortTable(1)">Publisher</th>
@@ -945,9 +945,3 @@ function sortTable(n) {
   }
 }
 </script>
-
-if (Number(x.innerHTML) > Number(y.innerHTML)) {
-  shouldSwitch = true;
-  break;
-}
-   
