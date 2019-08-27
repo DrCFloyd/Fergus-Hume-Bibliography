@@ -1,22 +1,2 @@
 @import "{{ site.theme }}";
 
-
-table.sortable thead tr .headerSortDown {
-  background-image: url(desc.gif);}
-table.sortable thead tr .header {
-    background-image: url(bg.gif);
-    background-repeat: no-repeat;
-    background-position: center right;
-    cursor: pointer;
-    border: 1px solid #fff;
-}
-table.sortable td, table.sortable th {
-    padding: 10px;
-}
-table thead tr th {
-    text-align: left;
-    font-size: 1em;
-    /* border-right: 1px solid #dfdfdf; */
-    padding: 0.25em 0.75em;
-    color: #4a5458;
-}
