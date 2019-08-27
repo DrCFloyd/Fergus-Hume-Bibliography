@@ -4,7 +4,7 @@ title: Review of <em>The Tombstone Treasure</em>
 posted-by: Courtney Floyd
 ---
 
-<h2> Published in *The Academy Fiction Supplement* (21 Aug. 1897)</h2>
+<strong> Published in *The Academy Fiction Supplement* (21 Aug. 1897)</strong>
 
 If anyone ought to write a good detective story, it should be Mr. Fergus Hume. There are, I know, people who shoot out their
 lips at The Mystery of a Hansom Cab. But it was a mystery; and that's the point. Mr. Fergus Hume, to be quite frank, 
