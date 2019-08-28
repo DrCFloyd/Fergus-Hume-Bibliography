@@ -13,4 +13,4 @@ Oddly enough, there are no detectives worth speaking of in 'The Vanishing of Ter
 else it is badly done by the local police. However, there is a gipsy who uses a knife with much freedom, and there are two 
 natives of islands in the South Seas who complicate matters painfully. As a whole the story is lugunrios and mechanical; it is 
 quite free from wit and humour, and will suffice for little more than the delectation of an hour. It will no doubt be 
-cceptable holiday literature. ... [review continues for <em>The Crimson Cryptogram</em>] 
+cceptable holiday literature. ... <a href="/2019/08/28/crimsoncrypto.html">[review continues for <em>The Crimson Cryptogram</em>]</a> 
