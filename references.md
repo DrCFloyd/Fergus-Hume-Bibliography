@@ -17,8 +17,9 @@ title: Reference Works
   </ul>
 
 <strong>Other Resources</strong>
+
+eBooks
 <ul>
-  <li>eBooks</li>
     <li><a href="https://www.gutenberg.org/ebooks/author/1057">Project Gutenberg's Fergus Hume page</a></li>
     <li><a href="https://ebooks.adelaide.edu.au/h/hume/fergus/index.html">The University of Adelaide's Fergus Hume eBooks page</a></li>
     <li><a href="http://gutenberg.net.au/plusfifty-a-m.html#letterH">Project Gutenberg Australia's list of Hume's works</a></li>
