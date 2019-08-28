@@ -13,6 +13,7 @@ title: Reference Works
 <strong>Articles</strong>
 <ul>
    <li>Pittard, Christopher. "The Real Sensation of 1887: Fergus Hume and the Mystery of a Hansom Cab." <em>Clues: A Journal of Detection</em>, vol. 26., no .1, Fall 2007, pp. 37-48.</li>
+  </ul>
 
 <strong>Other Resources</strong>
 
