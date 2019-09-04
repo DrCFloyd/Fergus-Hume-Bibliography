@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of <em>The Tombstone Treasure</em>
+title: Review of <em>The Tombstone Treasure</em> (1897)
 posted-by: Courtney Floyd
 ---
 
