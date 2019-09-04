@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of <em>The Crimson Cryptogram; A Detective Story</em>
+title: Review of <em>The Crimson Cryptogram; A Detective Story</em> (1900)
 posted-by: Courtney Floyd
 ---
 <strong>Published in <em>The Atheneum</em> (4 Aug. 1900)</strong>
